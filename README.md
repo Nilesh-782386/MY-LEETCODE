@@ -41,16 +41,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Math
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
