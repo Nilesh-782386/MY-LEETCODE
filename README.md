@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1408-string-matching-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -105,9 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1408-string-matching-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
