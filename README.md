@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1486-xor-operation-in-an-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
