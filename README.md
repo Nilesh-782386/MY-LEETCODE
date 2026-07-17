@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3794-reverse-string-prefix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
