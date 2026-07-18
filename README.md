@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
