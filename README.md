@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3794-reverse-string-prefix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3794-reverse-string-prefix) |
 ## Greedy
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Brainteaser
 |  |
 | ------- |
