@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1720-decode-xored-array) |
 | [1773-count-items-matching-a-rule](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1920-build-array-from-permutation](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
+| [1920-build-array-from-permutation](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
