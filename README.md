@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
 | ------- |
