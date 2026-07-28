@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0997-find-the-town-judge](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1408-string-matching-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1408-string-matching-in-an-array) |
