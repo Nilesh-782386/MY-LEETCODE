@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2574-left-and-right-sum-differences](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
