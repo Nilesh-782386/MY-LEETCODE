@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
 | ------- |
