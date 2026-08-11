@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quicksort
 |  |
