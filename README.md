@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1652-defuse-the-bomb](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1720-decode-xored-array) |
@@ -309,5 +310,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1652-defuse-the-bomb](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
