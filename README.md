@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2090-k-radius-subarray-averages](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1652-defuse-the-bomb) |
+| [2090-k-radius-subarray-averages](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
