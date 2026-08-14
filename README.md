@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0463-island-perimeter) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Matrix
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1652-defuse-the-bomb](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
