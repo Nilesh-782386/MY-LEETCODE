@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0997-find-the-town-judge](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0997-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0997-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1108-defanging-an-ip-address) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1408-string-matching-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1528-shuffle-string) |
