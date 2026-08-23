@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
