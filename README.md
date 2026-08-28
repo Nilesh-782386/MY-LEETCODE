@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
