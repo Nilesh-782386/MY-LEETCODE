@@ -1,5 +1,7 @@
 class Solution {
-       private static boolean isSafePosition(int row  , int col, String[][] arr) {
+
+    int totPos = 0;
+       private  boolean isSafePosition(int row  , int col, String[][] arr) {
         int i = row;
         int j = col;
         int n  = arr.length;
@@ -70,28 +72,17 @@ while (i >= 0 && j >= 0) {
       }
 
 
-      private static void help(String[][] arr, int row  , List<List<String>>aa ) {
+      private  void help(String[][] arr, int row ) {
       int n = arr.length;
 
       if(row == n){
-        ArrayList<String>a  = new ArrayList<>();
-    for( int i  = 0;i<n;i++){
-        StringBuilder s =  new StringBuilder();
-         for(int  j = 0;j<n;j++){
-
-         s.append(arr[i][j]);
-         }
-          String ss = s.toString();
-          a.add(ss);
-
-      }
-      aa.add(a);
+   totPos++;
       return ;
    }
          for(int  j = 0;j<n;j++){
             if(isSafePosition(row,j, arr )){
                arr[row][j] = "Q";
-               help( arr , row+1 , aa);
+               help( arr , row+1 );
                arr[row][j] = ".";
             }
       }
@@ -100,11 +91,10 @@ while (i >= 0 && j >= 0) {
 
     public int totalNQueens(int n) {
 
-      String arr[][] = new String[n][n];
-       List<List<String>>aa = new ArrayList<>(); 
+      String arr[][] = new String[n][n];; 
        for (int i = 0; i < n; i++) { 
         Arrays.fill(arr[i], "."); }
-         help(arr ,  0 , aa); 
-         return aa.size();  
+         help(arr ,  0); 
+         return totPos;
     }
 }
