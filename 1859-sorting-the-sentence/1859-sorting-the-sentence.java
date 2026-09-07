@@ -17,20 +17,20 @@ class Solution {
         int ans[] =  new int[hm.size()];
         int k = 0;
     for(String ss: arr){
-          int   idx  = ss.charAt(ss.length()-1)-'0';
+        int   idx  = ss.charAt(ss.length()-1)-'0';
         ans[k++] = idx;
         }
          Arrays.sort(ans);
          int last = ans[ans.length-1];
 
-          String ansString  = "";
+          StringBuilder sb =  new   StringBuilder("");
      for(int  I  : ans){
        String sss = hm.get(I);
-       ansString += sss;
-    if(I != last)    ansString += " ";
+       sb.append(sss);
+    if(I != last)    sb.append(" ");
      }
 
-    return ansString;
+    return sb.toString();
 
     }
 }
