@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1528-shuffle-string) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
