@@ -1,26 +1,26 @@
 class Solution {
+
+    void   calFreq(int frq[] , int  num ){
+
+        while( num  > 0 ){
+
+            int k = num%10;
+            frq[k]++;
+            num = num/10;
+        }
+    }
+    
+
     public int countDigitOccurrences(int[] arr, int dig) {
 
+      int frq[] = new int[10];
 
-     StringBuilder sb = new StringBuilder();
+      for(int  i =  0 ;i<arr.length;i++){
+        int num = arr[i];
 
-     for( int num : arr){
-      sb.append(num);
-     }
-      int count = 0;
+        calFreq(frq , num );
+      }
 
-     System.out.println(sb);
-
-     int i = 0;
-     while (i <sb.length() ) {
-
-      int el  = sb.charAt(i)-'0';
-      i++;
-     
-      if(el == dig ) count++;
-      
-     }
-
-     return  count;
+      return frq[dig];
     }
 }
