@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -439,4 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0064-minimum-path-sum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
