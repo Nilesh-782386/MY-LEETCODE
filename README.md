@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2595-number-of-even-and-odd-bits) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
