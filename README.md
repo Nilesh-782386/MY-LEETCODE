@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0392-is-subsequence) |
 ## Design
 |  |
 | ------- |
