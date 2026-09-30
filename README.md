@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1859-sorting-the-sentence) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
