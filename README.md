@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [0997-find-the-town-judge](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0997-find-the-town-judge) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
