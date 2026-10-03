@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0063-unique-paths-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
