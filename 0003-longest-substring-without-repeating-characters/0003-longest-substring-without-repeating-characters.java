@@ -1,35 +1,45 @@
 class Solution {
+
+    boolean checkAllFreq(HashMap<Character , Integer>h ){
+
+    for(char ch : h.keySet()){
+
+       if(h.get(ch) > 1)return false;
+    }
+
+ return true;
+    }
     public int lengthOfLongestSubstring(String s) {
 
+     
+     HashMap<Character , Integer>h = new HashMap<>();
+     int max = 0;
+     int i = 0;
+     int j = 0;
+     int n = s.length();
 
-       int max = 0;
+     while(j < n){
 
-       int j = 0;
-       int i  = 0;
-       int n = s.length();
-       HashSet<Character>h = new HashSet<>();
+    char ch  = s.charAt(j);
 
-       while(j < n ){
+    h.put(ch , h.getOrDefault(ch ,0)+1);
 
-        char ch = s.charAt(j);
+    
+    if(checkAllFreq(h)){
+    
+    max = Math.max(max, j-i+1);
+    }else{
 
-        if(h.contains(ch)){
-           
-            while(h.contains(ch)){
-                 h.remove(s.charAt(i));
-                 i++;
-                
-            }
-            
+        while( i < n && !checkAllFreq(h)){
+
+          char chh  = s.charAt(i);  
+          h.put( chh , h.get(chh)-1) ;
+          i++;
         }
+    }
+j++;
+     } 
 
-         h.add(ch);
-          max = Math.max( max , h.size());
-        
-        j++;
-       }
-
-       return Math.max( max , h.size());
-        
+     return max;
     }
 }
