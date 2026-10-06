@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0200-number-of-islands) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
