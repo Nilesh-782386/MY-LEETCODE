@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
