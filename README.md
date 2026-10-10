@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -532,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
