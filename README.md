@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2596-check-knight-tour-configuration) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
