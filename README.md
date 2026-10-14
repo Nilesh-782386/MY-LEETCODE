@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1408-string-matching-in-an-array) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2090-k-radius-subarray-averages) |
