@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0322-coin-change) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0392-is-subsequence) |
