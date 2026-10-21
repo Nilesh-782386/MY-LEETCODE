@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0224-basic-calculator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2000-reverse-prefix-of-word) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
@@ -578,4 +581,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
