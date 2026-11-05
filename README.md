@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3978-unique-middle-element](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3978-unique-middle-element) |
 ## Quickselect
 |  |
 | ------- |
