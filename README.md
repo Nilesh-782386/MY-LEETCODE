@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -607,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
