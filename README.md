@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0841-keys-and-rooms) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search Tree
