@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0617-merge-two-binary-trees) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0392-is-subsequence) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
