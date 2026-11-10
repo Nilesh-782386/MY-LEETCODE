@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3693-climbing-stairs-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3895-count-digit-appearances) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3693-climbing-stairs-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Design
 |  |
 | ------- |
