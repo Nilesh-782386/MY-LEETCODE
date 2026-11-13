@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
