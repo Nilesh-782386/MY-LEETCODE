@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0224-basic-calculator) |
+| [0263-ugly-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0292-nim-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
