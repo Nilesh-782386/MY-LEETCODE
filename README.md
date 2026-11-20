@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0224-basic-calculator) |
 ## Binary Indexed Tree
 |  |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## DP on Trees
 |  |
