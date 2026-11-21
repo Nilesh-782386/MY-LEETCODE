@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0518-coin-change-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0633-sum-of-square-numbers) |
