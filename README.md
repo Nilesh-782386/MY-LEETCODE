@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1528-shuffle-string) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Nilesh-782386/MY-LEETCODE/tree/master/3903-smallest-stable-index-i) |
